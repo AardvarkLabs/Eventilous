@@ -1,6 +1,10 @@
 
 
-Eventjs - Codename: Vaquerita 2.00.x
+Eventjs OpenSource Project - Alpha - Codename: Vaquerita 2.00.x
+
+#
+ This project open to update from interested individuals.
+
 
 #
 
@@ -9,4 +13,10 @@ A registered user can also add new events, subscribe to existing ones and like o
 
 #
 
-By Felipe Alfonso Gonzalez - Software Engineer - f.alfonso@res-ear.ch
+
+Felipe Alfonso Gonzalez - Software Engineer - f.alfonso@res-ear.ch 
+
+[Reuben Azi](https://geekyourselfblog.wordpress.com/) - Software Engineer - [Email](mailto:cheerantz@gmail.com) 
+
+
+(C) 2019 
